@@ -28,8 +28,6 @@ Ex:
 projectName.method() // "result"
 ```
 
----
-
 #### `projectName.anotherMethod()`
 
 _…description._
@@ -40,3 +38,8 @@ Ex:
 projectName.anotherMethod() // "result"
 ```
 
+---
+
+## [Changelog](CHANGELOG.md)
+
+## [License](LICENSE)

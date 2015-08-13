@@ -11,28 +11,25 @@ $ npm install username/project-name
 ## Usage
 
 ```javascript
-require('project-name')
+var ProjectName = require('project-name')
+var projectName = new ProjectName()
 
 // YOUR CODE
 ```
 
 ## API
 
-#### `projectName.method()`
+#### » ProjectName.method()
 
 _…description._
-
-Ex:
 
 ```javascript
 projectName.method() // "result"
 ```
 
-#### `projectName.anotherMethod()`
+#### » ProjectName.anotherMethod()
 
 _…description._
-
-Ex:
 
 ```javascript
 projectName.anotherMethod() // "result"
